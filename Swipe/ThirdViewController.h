@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ThirdViewController.h
 //  Swipe
 //
 //  Created by Bharath Raj Venkatesh on 09/04/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController 
-
+@interface ThirdViewController : UIViewController
 
 @end
-
